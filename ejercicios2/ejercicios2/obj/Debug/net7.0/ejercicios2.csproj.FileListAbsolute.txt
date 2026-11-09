@@ -1,0 +1,15 @@
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/bin/Debug/net7.0/ejercicios2
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/bin/Debug/net7.0/ejercicios2.deps.json
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/bin/Debug/net7.0/ejercicios2.runtimeconfig.json
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/bin/Debug/net7.0/ejercicios2.dll
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/bin/Debug/net7.0/ejercicios2.pdb
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.csproj.AssemblyReference.cache
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.AssemblyInfoInputs.cache
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.AssemblyInfo.cs
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.csproj.CoreCompileInputs.cache
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.dll
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/refint/ejercicios2.dll
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.pdb
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ejercicios2.genruntimeconfig.cache
+/Users/padre/Documents/victor/Ejercicio-2_Estructuras-iterativas/ejercicios2/ejercicios2/obj/Debug/net7.0/ref/ejercicios2.dll
